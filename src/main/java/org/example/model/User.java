@@ -12,7 +12,7 @@ public class User {
         this.name = name;
     }
 
-    public boolean equalUser(User user) {
+    public boolean equalsUser(User user) {
         return this.equals(user);
     }
 
